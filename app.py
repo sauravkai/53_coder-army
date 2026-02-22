@@ -1155,4 +1155,8 @@ elif page == "📋 Compliance Report":
         "margin:12px 0 0;'>CIPHERSEARCH · HACK-A-LEAGUE 4.0 · "
         f"Report generated {generated}</p></div>",
         unsafe_allow_html=True,
+
     )
+  if __name__ == "__main__":
+    app.run()
+    app = app
