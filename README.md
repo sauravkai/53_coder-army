@@ -90,3 +90,7 @@ ciphersearch/
 ## Team
 
 Built for Hack-A-League 4.0 by Global Academy of Technology.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9dbfa5b-6e09-4e1f-8a11-ce8efaa5e97f" />
+
+
